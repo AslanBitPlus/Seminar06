@@ -26,7 +26,7 @@ void PrintArray(int[] array, string sep = " ")
 }
 // =======================
 
-Console.Write("Введите десятичное число: ");
+Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 if (number >= 2)
